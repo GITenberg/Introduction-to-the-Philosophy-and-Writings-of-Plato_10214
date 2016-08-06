@@ -1,0 +1,27 @@
+_repo: Introduction-to-the-Philosophy-and-Writings-of-Plato_10214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Thomas
+    birthdate: 1758
+    deathdate: 1835
+    gutenberg_agent_id: '3385'
+    url: http://www.gutenberg.org/2009/agents/3385
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- !lcsh 'Plato'
+- GITenberg
+title: Introduction to the Philosophy and Writings of Plato
+url: http://www.gutenberg.org/ebooks/10214
